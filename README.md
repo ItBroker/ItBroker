@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and SDL
 - 💞️ I’m looking to collaborate with C++ GameDev Coders on a voluntary basis
 - 📫 How to reach me: kinad.grouse@gmail.com
-Telegaram : https://t.me/gironlaze
+Telegaram : https://t.me/pozharnik_na_streame
 
 <!---
 ItBroker/ItBroker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
